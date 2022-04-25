@@ -5,8 +5,11 @@
 * Location of Notebook: [FinalProject.ipynb](./FinalProject.ipynb) in the main directory
 
 ## Members
-* Parth Patel - pjp401@gmail.com
- * IndividualNotebook location [ParthPatel_FinalProject.ipynb](./parthNotebook/ParthPatel_FinalProject.ipynb) in the folder names "parthNotebook"
+* Parth Patel 
+ * Emails:
+  * Github: pjp401@gmail.com
+  * Pitt: pjp59@pitt.edu
+ * Individual notebook location [ParthPatel_FinalProject.ipynb](./parthNotebook/ParthPatel_FinalProject.ipynb) in the folder names "parthNotebook"
  
 * Nico
 
