@@ -26,9 +26,8 @@
 ## Datasets We Used
 * We used a city traffic signs dataset which is an inventory of signs that the Department of Public Works updates when new signs are added to the City of Pittsburgh. It specifies the types of signs and where they are places in the city. The link to the dataset is https://data.wprdc.org/dataset/city-traffic-signs
 
-* We used a dataset that had the water features of pittsburgh maintained by the City of Pittsburgh Department of Public Works that includes all of the water features that it maintains in public areas. The link to this dataset is #https://data.wprdc.org/datastore/dump/513290a6-2bac-4e41-8029-354cbda6a7b7
-* I also used a dataset that had the amount of spray parks and pools in the city, including data on their location and who operates them. The link to this dataset is 
-# https://data.wprdc.org/datastore/dump/5cc254fe-2cbd-4912-9f44-2f95f0beea9a
+* We used a dataset that had the water features of pittsburgh maintained by the City of Pittsburgh Department of Public Works that includes all of the water features that it maintains in public areas. The link to this dataset is https://data.wprdc.org/datastore/dump/513290a6-2bac-4e41-8029-354cbda6a7b7
+* I also used a dataset that had the amount of spray parks and pools in the city, including data on their location and who operates them. The link to this dataset is https://data.wprdc.org/datastore/dump/5cc254fe-2cbd-4912-9f44-2f95f0beea9a
 
 
 * We used a tree dataset which is an index of trees in Pittsburgh and maintained by the City of Pittsburgh Department of Public Works Forestry Division. The dataset provides the location of each tree along with its affect on the environment. We used this to dataset to determine how green a neighborhood is. The link to the dataset is https://data.wprdc.org/dataset/city-trees
