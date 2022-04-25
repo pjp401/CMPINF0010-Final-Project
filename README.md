@@ -2,14 +2,14 @@
 # Team Panthers
 
 ## Combined Notebook
-* Location of Notebook: [FinalProject.ipynb](./FinalProject.ipynb) in the main directory
+* File: [FinalProject.ipynb](./FinalProject.ipynb) in the main directory
 
 ## Members
 * Parth Patel 
- * Emails:
-  * Github: pjp401@gmail.com
-  * Pitt: pjp59@pitt.edu
- * Individual notebook location [ParthPatel_FinalProject.ipynb](./parthNotebook/ParthPatel_FinalProject.ipynb) in the folder names "parthNotebook"
+    * Emails:
+        * Github: pjp401@gmail.com
+        * Pitt: pjp59@pitt.edu
+    * Individual notebook file: [ParthPatel_FinalProject.ipynb](./parthNotebook/ParthPatel_FinalProject.ipynb) in the folder named "parthNotebook"
  
 * Nico
 
