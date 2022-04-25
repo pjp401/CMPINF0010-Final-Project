@@ -14,7 +14,10 @@
 * Nico
 
 * Ojas
-
+    * Emails:
+        * Github: Ojas1729
+        * Pitt: ojm15@pitt.edu
+    * Individual notebook file: [ojas_final_project.ipynb](./ojasNotebook/ojas_final_roject.ipynb) in the folder named "ojasNotebook"
 ## Canvas Group Number 43
 
 ## Datasets We Used
@@ -24,7 +27,7 @@
 
 * Dataset Next
 
-* Dataset Next
+* We used a tree dataset which is an index of trees in Pittsburgh and maintained by the City of Pittsburgh Department of Public Works Forestry Division. The dataset provides the location of each tree along with its affect on the environment. The link to the dataset is https://data.wprdc.org/dataset/city-trees
 
 ## Overview
 * This repository is our work for a project where we decide what neighborhood in the City of Pittsburgh is best for Panthers to live in.
