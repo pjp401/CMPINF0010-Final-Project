@@ -27,7 +27,10 @@
 
 * Dataset Next
 
-* We used a tree dataset which is an index of trees in Pittsburgh and maintained by the City of Pittsburgh Department of Public Works Forestry Division. The dataset provides the location of each tree along with its affect on the environment. The link to the dataset is https://data.wprdc.org/dataset/city-trees
+* We used a tree dataset which is an index of trees in Pittsburgh and maintained by the City of Pittsburgh Department of Public Works Forestry Division. The dataset provides the location of each tree along with its affect on the environment. We used this to dataset to determine how green a neighborhood is. The link to the dataset is https://data.wprdc.org/dataset/city-trees
+
+
+* We used a dataset of local cat shelters. As there was no such publicly maintained dataset for this we used google maps to determine location of cat shelters in Puttsburgh.
 
 ## Overview
 * This repository is our work for a project where we decide what neighborhood in the City of Pittsburgh is best for Panthers to live in.
