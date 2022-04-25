@@ -12,7 +12,10 @@
     * Individual notebook file: [ParthPatel_FinalProject.ipynb](./parthNotebook/ParthPatel_FinalProject.ipynb) in the folder named "parthNotebook"
  
 * Nico
-
+    * Emails:
+        * Github: nicohodgson2003@gmail.com
+        * Pitt: neh50@pitt.edu
+    * Individual notebook file: https://jupyterhub.sci.pitt.edu/hub/user-redirect/lab/tree/CMPINF0010-Final-Project/nicoNotebook
 * Ojas
     * Emails:
         * Github: Ojas1729
